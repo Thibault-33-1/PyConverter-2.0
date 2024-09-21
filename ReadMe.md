@@ -7,6 +7,7 @@ Install python3 if you don't have it :
 -------------------------------------
 
 sudo apt update
+
 sudo apt-get install python3
 
 
